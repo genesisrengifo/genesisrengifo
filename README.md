@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Genesis
+# 👋 Hi there!
 
 I'm an aspiring **Data Analyst** with a background in marketing, communication, and business intelligence. I use **Python**, **SQL**, and **Tableau** to turn raw data into actionable insights and compelling stories.
 
