@@ -18,13 +18,13 @@ I use **Python***, **SQL** and **Tableau** to transform raw data into actionable
 
 ### 👨‍💻 About Me
 - 🌍I’m in Valencia Venezuela.
-- 🎓 Advanced student in Social Communication of the UCV.
+- 🎓 Advanced student in Social Communication from UCV.
 - 🌟 Passionate about **data visualization**  and creating innovative solutions.
 ---
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** Python
-- **Data Analysis:** Pandas, Sci-kit Learn, Plotly
+- **Data Analysis:** Pandas
 - **Visualization Tools:** Tableau
 
 
